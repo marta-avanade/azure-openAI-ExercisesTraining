@@ -1,0 +1,7 @@
+# Frases de ejemplo para pruebas
+
+# Ejemplo 1
+¿Cuál es el saldo vivo por Dirección Territorial en septiembre de 2023?
+
+# Ejemplo 2
+¿Qué Dirección Territorial ha disminuido más el dudoso en el año?

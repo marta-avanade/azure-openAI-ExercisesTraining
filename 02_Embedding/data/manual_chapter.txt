@@ -1,0 +1,11 @@
+Additional Guidance (Manual Chapter)
+
+This chapter was added manually to complement the original document.
+Use this section to include clarifications, examples, or updated rules that
+are not present in the PDF or need correction.
+
+Suggested structure:
+- Scope and purpose of the addition
+- Key rules / procedures
+- Examples and edge cases
+- References

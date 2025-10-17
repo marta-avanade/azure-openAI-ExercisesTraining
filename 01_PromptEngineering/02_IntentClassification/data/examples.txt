@@ -1,0 +1,17 @@
+"¿Cuánto dinero tengo disponible en mi cuenta de ahorros?"
+"Quiero ver el saldo de mi cuenta corriente, por favor."
+"Muéstrame el saldo de todas mis cuentas."
+
+"Quisiera bloquear mi tarjeta de débito, la he perdido."
+"¿Cómo puedo aumentar el límite de crédito de mi tarjeta?"
+"Necesito solicitar una tarjeta nueva porque la mía está dañada."
+
+"Estoy interesado en abrir una nueva cuenta de ahorros, ¿qué necesito?"
+"Quisiera conocer más sobre los préstamos personales que ofrecen."
+"¿Cuáles son los requisitos para contratar un fondo de inversión con el banco?"
+
+"No puedo acceder a mi cuenta en la app, ¿qué debo hacer?"
+"Olvidé mi contraseña, necesito ayuda para restablecerla."
+"La app se cerró inesperadamente, ¿hay algún problema conocido?"
+
+"Cualquier frase que no encaje en las categorías anteriores."

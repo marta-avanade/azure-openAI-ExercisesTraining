@@ -1,0 +1,23 @@
+- "He notado algunas discrepancias en mi última factura de energía y quiero disputar los cargos."
+- "Mi factura parece inusualmente alta este mes; ¿pueden darme un desglose detallado?"
+- "Parece que hay un error en el monto facturado; no coincide con mi consumo real."
+- "Me cobraron un recargo por pago tardío aunque pagué a tiempo. ¿Se puede corregir?"
+- "Creo que me facturaron incorrectamente por servicios que no recibí y solicito un ajuste."
+
+- "He estado experimentando cortes de energía frecuentes y necesito que se resuelva este problema urgentemente."
+- "Las fluctuaciones de voltaje en mi zona están dañando mis electrodomésticos y necesito una solución."
+- "Hay un problema continuo con la fiabilidad del suministro de energía, y está afectando mi negocio en casa."
+- "No estoy satisfecho con la consistencia del servicio de energía, ya que ha habido varias interrupciones este mes."
+- "La calidad de la energía en mi vecindario ha empeorado recientemente; quisiera saber qué se está haciendo para solucionarlo."
+
+- "El trabajo de mantenimiento programado no se completó a tiempo, causando inconvenientes."
+- "Todavía estoy esperando la instalación de mi nuevo medidor de energía, que debía hacerse la semana pasada."
+- "Hubo daños en mi propiedad durante la instalación de infraestructura energética y necesito que se reparen."
+- "El equipo de mantenimiento se fue sin restaurar completamente el servicio; necesito que regresen a terminar el trabajo."
+- "Tengo preocupaciones sobre la seguridad de las instalaciones actuales de energía en mi hogar y quisiera una inspección."
+
+- "Mi medidor de energía parece estar defectuoso y no registra el consumo correctamente."
+- "Sospecho un problema con la lectura de mi medidor, ya que no refleja mi consumo real."
+- "La reciente instalación de mi medidor de energía parece incorrecta y necesito que se reevalúe."
+- "No he recibido confirmación de mi solicitud de reemplazo de medidor; quisiera una actualización."
+- "Hay un retraso significativo en la instalación de mi nuevo medidor y necesito saber cuándo se resolverá."

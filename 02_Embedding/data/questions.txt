@@ -1,0 +1,15 @@
+# Preguntas para pruebas Q&A (RAG)
+
+[Básicas]
+1) ¿Cuál es el propósito de la política de gastos en Avanade España?
+2) ¿A quién aplica esta política de gastos?
+3) ¿Cuál es el enlace de acceso para gestionar reservas de viaje?
+4) ¿Qué tarjeta se utiliza para pagar los vuelos y los viajes en tren?
+5) ¿Qué gastos requieren obligatoriamente aportar recibo?
+
+[Difíciles]
+1) Si se pierde un recibo y no se usó tarjeta, ¿qué procedimiento permite la política para poder justificar el gasto?
+2) Explica las diferencias operativas entre el OBT y CWT y cómo se gestionan pagos y registro de vuelos, trenes, hoteles y coches de alquiler.
+3) Describe el proceso completo de envío del informe de tiempo y gastos (myTE), incluyendo plazos y requisitos clave.
+4) ¿Cómo se tratan el per diem y el kilometraje en relación con la aportación de recibos y el reembolso?
+5) ¿Qué consideraciones y reglas existen sobre formación (tiempo y gastos) y cómo deben reportarse?

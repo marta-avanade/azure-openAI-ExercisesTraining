@@ -1,0 +1,47 @@
+# Archivos de configuración sensibles
+.env
+*.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de datos sensibles
+*.jsonl
+*.json
+data/raw/*
+data/processed/*
+data/training/*
+data/validation/*
+results/*
+logs/*
+
+# Mantener estructura de carpetas pero no el contenido
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/training/.gitkeep
+!data/validation/.gitkeep
+!results/.gitkeep
+!logs/.gitkeep
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+*.tmp
+*.temp
